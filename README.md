@@ -76,7 +76,7 @@ ORIGIN_URL_FRONT=http://localhost:3000
 
 npm run start:dev
 
-uri:[### le port peut changer si 3000 est déjà occupé ](http://localhost:3001/graphql)
+uri:[### le port peut changer si 3001 est déjà occupé ](http://localhost:3001/graphql)
 
 ### Installation et Configuration du Frontend (NextJS)
 
@@ -87,7 +87,7 @@ npm install
 ### Configurez l'environnement de variable .env
 
 .env
-NEXT_PUBLIC_API_URL=http://localhost:3000/graphql
+NEXT_PUBLIC_API_URL=http://localhost:3001/graphql
 
 ### Demarrer nextjs
 
